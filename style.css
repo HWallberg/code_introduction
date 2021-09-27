@@ -1,0 +1,42 @@
+
+body {
+	padding-top: 30px;
+	padding-right: 200px;
+	padding-bottom: 50px;
+	padding-left: 30px;
+}
+
+h1 {
+  	color: #3285a8;
+	font-family: Helvetica;
+	font-size:30px;
+		
+}
+
+p {
+	color: #19485c;
+	font-family: Helvetica;
+	font-size:15px;
+	
+}
+
+.center {
+	text-align: center;
+}
+
+a:link {
+	color: #3285a8
+}
+
+a:visited {
+	color: #754f02
+}
+
+a:hover {
+  color: #a87205
+}
+
+img {
+          max-width: 300px;
+          height: auto;
+        }
